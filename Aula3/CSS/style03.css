@@ -1,0 +1,23 @@
+body {
+    background-color: darkcyan ;
+    color: aqua;
+}
+
+.ex1 {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: cadetblue;
+}
+
+.ex2 {
+    text-shadow: 150px 0px royalblue;
+    text-decoration-line: overline;
+    text-decoration-style: double;
+    text-decoration-color: cornflowerblue;
+}
+
+.ex3 {
+    text-decoration-line: line-through;
+    text-decoration-style: wavy;
+    text-decoration-color: darkcyan;
+}

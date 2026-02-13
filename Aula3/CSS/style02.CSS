@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(234, 1, 98);
+}
+
+.ex1 {
+    outline-style: solid;
+    outline-width: 10px;
+    outline-color: rgb(223, 50, 146);
+    outline-offset: 10px;
+    width: 400px;
+    margin: auto;
+    border: 3px solid black;
+    background-color: hotpink;
+}
