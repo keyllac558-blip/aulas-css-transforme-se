@@ -1,0 +1,32 @@
+body {
+    background-color:rebeccapurple ;
+}
+
+a:link {
+    color: blueviolet;
+    background-color: aqua;
+}
+
+a:visited {
+    color: darkorchid;
+    background-color: azure;
+}
+
+a:hover {
+    color: darkslateblue;
+    background-color: blue;
+}
+
+a:active {
+    color: indigo;
+    background-color: cadetblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+a {
+    cursor:url(../img/cursor2.png),auto;
+}
+
