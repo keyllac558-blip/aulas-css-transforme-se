@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(5, 42, 30);
+    color: beige;
+}
+
+.ex1{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: darkgreen;
+}
+
+.ex1 div{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: darkolivegreen;
+}
+
+.ex2{
+    display: flex;
+    justify-content: flex-start;
+    gap: 30px;
+    background-color: rgb(47, 135, 47);
+}
+
+.ex2 div{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: darkolivegreen;
+}
+
+.ex3{
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    background-color: rgb(39, 71, 39);
+}
+
+.ex3 div{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: darkolivegreen;
+}
+
+.ex4{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    background-color: rgb(20, 40, 20);
+}
+
+.ex4 div{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(43, 59, 17);
+}
+
+.ex5{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    background-color: rgb(19, 83, 19);
+}
+
+.ex5 div{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(56, 71, 31);
+}
+
+.ex6{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    background-color: rgb(37, 64, 37);
+}
+
+.ex6 div{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(56, 71, 31);
+}
+
