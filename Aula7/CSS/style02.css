@@ -1,0 +1,120 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(22, 0, 77);
+}
+
+.ex1{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    background-color: burlywood;
+    color: azure;
+    align-content: center;
+    gap: 10px;
+    justify-content: center;
+    height: 300px;
+}
+
+.ex1 div {
+    width: 100px;
+    height: 100px;
+    background-color: midnightblue;
+    text-align: center;
+    align-content: center;
+}
+
+.ex2{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    background-color: burlywood;
+    color: azure;
+    align-content: space-evenly;
+    gap: 10px;
+    justify-content: center;
+    height: 300px;
+}
+
+.ex2 div {
+    width: 100px;
+    height: 100px;
+    background-color: midnightblue;
+    text-align: center;
+    align-content: center;
+}
+
+.ex3{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    background-color: burlywood;
+    color: azure;
+    align-content: space-around;
+    gap: 0px 10px;
+    justify-content: center;
+    height: 300px;
+}
+
+.ex3 div {
+    width: 100px;
+    height: 100px;
+    background-color: midnightblue;
+    text-align: center;
+    align-content: center;
+}
+
+.ex4{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    background-color: burlywood;
+    color: azure;
+    align-content: space-between;
+    gap: 0px 10px;
+    justify-content: center;
+    height: 300px;
+}
+
+.ex4 div {
+    width: 100px;
+    height: 100px;
+    background-color: midnightblue;
+    text-align: center;
+    align-content: center;
+}
+
+.ex5{
+    height: 300px;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    background-color: burlywood;
+    color: azure;
+    align-content: start;
+    gap: 10px 10px;
+    justify-content: center;
+    
+}
+
+.ex5 div {
+    width: 100px;
+    height: 100px;
+    background-color: midnightblue;
+    text-align: center;
+    align-content: center;
+}
+
+.ex6{
+    height: 300px;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    background-color: burlywood;
+    color: azure;
+    align-content: end;
+    gap: 10px 10px;
+    justify-content: center;
+    
+}
+
+.ex6 div {
+    width: 100px;
+    height: 100px;
+    background-color: midnightblue;
+    text-align: center;
+    align-content: center;
+}

@@ -1,0 +1,30 @@
+body{
+    background-color: deeppink;
+    color: #fff;
+}
+
+.ex1 {
+    display: flex;
+    background-color: hotpink;
+}
+
+.ex1 div {
+    width:100px ;
+    height:100px ;
+    text-align: center;
+    background-color: #fff;
+    color: plum;
+}
+
+.ex2 {
+    display: flex;
+    background-color: hotpink;
+}
+
+.ex2 div {
+    width:100px ;
+    height:100px ;
+    text-align: center;
+    background-color: #fff;
+    color: plum;
+}
